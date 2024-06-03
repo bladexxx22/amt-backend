@@ -1,5 +1,5 @@
 {
-  "name": "attend-manager-backend",
+  "name": "amt-backend",
   "version": "1.0.0",
   "description": "Attendance manager keeps track of your attendance percentage and stores your daily attendance on the cloud.",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "node ./index.js",
     "dev": "nodemon ./index.js"
   },
-  "author": "Aashir",
+  "author": "bladexxx22",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
